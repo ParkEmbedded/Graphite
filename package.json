@@ -79,7 +79,7 @@
     "inflight": "^1.0.6",
     "inherits": "^2.0.4",
     "ipaddr.js": "^2.1.0",
-    "is-arrayish": "^0.2.1",
+    "is-arrayish": "^0.3.2",
     "is-core-module": "^2.13.1",
     "is-docker": "^2.2.1",
     "is-wsl": "^2.2.0",
