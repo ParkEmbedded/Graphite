@@ -44,10 +44,13 @@ This project is based on the [Terbium Project](https://github.com/TerbiumOS/webO
 ### - From the Temrinal, you can type ```npm install``` and that will install the required files to run the simulator.
 ### - Congrats! You have sucessfully installed Grpahite on Mac! Now you can run the simulator by typing ```npm start .```!
 
+<br>
+<br>
 
 ## **Bugs**:
 ### If you are experiencing bugs / errors, you can file an issue via the issues tab on the repo.
 
+<br>
 
 ## *Contributing to the project / interested in making your own version of Park?*
 ### If you want to contribute to the project, email me at ```killopper2233@gmail.com``` and I will hook you up to the repo! Otherwise, thank you for supporting the project!
