@@ -1,5 +1,5 @@
 # Graphite Shell For Mobile Devices.
-This project is based on the [Terbium](https://github.com/TerbiumOS/webOS).
+This project is based on [Terbium](https://github.com/TerbiumOS/webOS).
 ## What is Graphite?
 ### Graphite is a mobile shell interface for mobile devices. This graphical shell is <br> written in Javascript, HTML & CSS to ensure that everything is stable & relaible.
 
