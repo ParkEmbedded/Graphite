@@ -1,3 +1,5 @@
+<a href="https://polar.sh/ParkEmbedded/subscriptions"><picture><source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/tiers.svg?org=ParkEmbedded&darkmode"><img alt="Subscription Tiers on Polar" src="https://polar.sh/embed/tiers.svg?org=ParkEmbedded"></picture></a>
+
 # Graphite Shell For Mobile Devices.
 This project is based on [Terbium](https://github.com/TerbiumOS/webOS).
 ## What is Graphite?
